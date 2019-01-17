@@ -13,6 +13,41 @@
 		AC57CEF721F046530015ADD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC57CEF621F046530015ADD3 /* Assets.xcassets */; };
 		AC57CEFA21F046530015ADD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC57CEF821F046530015ADD3 /* LaunchScreen.storyboard */; };
 		AC57CEFD21F046530015ADD3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CEFC21F046530015ADD3 /* main.m */; };
+		AC57CF4A21F0465C0015ADD3 /* AAHighchartsLib.js in Resources */ = {isa = PBXBuildFile; fileRef = AC57CF0521F0465C0015ADD3 /* AAHighchartsLib.js */; };
+		AC57CF4B21F0465D0015ADD3 /* AAHighchartsMore.js in Resources */ = {isa = PBXBuildFile; fileRef = AC57CF0621F0465C0015ADD3 /* AAHighchartsMore.js */; };
+		AC57CF4C21F0465D0015ADD3 /* AAFunnel.js in Resources */ = {isa = PBXBuildFile; fileRef = AC57CF0721F0465C0015ADD3 /* AAFunnel.js */; };
+		AC57CF4D21F0465D0015ADD3 /* AAHighcharts-3d.js in Resources */ = {isa = PBXBuildFile; fileRef = AC57CF0821F0465C0015ADD3 /* AAHighcharts-3d.js */; };
+		AC57CF4E21F0465D0015ADD3 /* AAChartView.html in Resources */ = {isa = PBXBuildFile; fileRef = AC57CF0921F0465C0015ADD3 /* AAChartView.html */; };
+		AC57CF4F21F0465D0015ADD3 /* AAAreaspline.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF0D21F0465C0015ADD3 /* AAAreaspline.m */; };
+		AC57CF5021F0465D0015ADD3 /* AALabels.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF0F21F0465C0015ADD3 /* AALabels.m */; };
+		AC57CF5121F0465D0015ADD3 /* AASeries.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1221F0465C0015ADD3 /* AASeries.m */; };
+		AC57CF5221F0465D0015ADD3 /* AAXAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1321F0465C0015ADD3 /* AAXAxis.m */; };
+		AC57CF5321F0465D0015ADD3 /* AAPlotOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1521F0465C0015ADD3 /* AAPlotOptions.m */; };
+		AC57CF5421F0465D0015ADD3 /* AADataLabels.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1621F0465C0015ADD3 /* AADataLabels.m */; };
+		AC57CF5521F0465D0015ADD3 /* AALine.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1721F0465C0015ADD3 /* AALine.m */; };
+		AC57CF5621F0465D0015ADD3 /* AATooltip.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1A21F0465C0015ADD3 /* AATooltip.m */; };
+		AC57CF5721F0465D0015ADD3 /* AASubtitle.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1C21F0465C0015ADD3 /* AASubtitle.m */; };
+		AC57CF5821F0465D0015ADD3 /* AAYAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF1D21F0465C0015ADD3 /* AAYAxis.m */; };
+		AC57CF5921F0465D0015ADD3 /* AAColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2221F0465C0015ADD3 /* AAColumn.m */; };
+		AC57CF5A21F0465D0015ADD3 /* AAPlotLinesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2321F0465C0015ADD3 /* AAPlotLinesElement.m */; };
+		AC57CF5B21F0465D0015ADD3 /* AAOptions3d.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2521F0465C0015ADD3 /* AAOptions3d.m */; };
+		AC57CF5C21F0465D0015ADD3 /* AAStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2721F0465C0015ADD3 /* AAStyle.m */; };
+		AC57CF5D21F0465D0015ADD3 /* AABar.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2821F0465C0015ADD3 /* AABar.m */; };
+		AC57CF5E21F0465D0015ADD3 /* AATitle.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2921F0465C0015ADD3 /* AATitle.m */; };
+		AC57CF5F21F0465D0015ADD3 /* AAOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2C21F0465C0015ADD3 /* AAOptions.m */; };
+		AC57CF6021F0465D0015ADD3 /* AAArea.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2D21F0465C0015ADD3 /* AAArea.m */; };
+		AC57CF6121F0465D0015ADD3 /* AAAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2E21F0465C0015ADD3 /* AAAnimation.m */; };
+		AC57CF6221F0465D0015ADD3 /* AALegend.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF2F21F0465C0015ADD3 /* AALegend.m */; };
+		AC57CF6321F0465D0015ADD3 /* AAMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3121F0465C0015ADD3 /* AAMarker.m */; };
+		AC57CF6421F0465D0015ADD3 /* AASpline.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3521F0465C0015ADD3 /* AASpline.m */; };
+		AC57CF6521F0465D0015ADD3 /* AAItemStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3621F0465C0015ADD3 /* AAItemStyle.m */; };
+		AC57CF6621F0465D0015ADD3 /* AAPie.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3721F0465C0015ADD3 /* AAPie.m */; };
+		AC57CF6721F0465D0015ADD3 /* AAChart.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3C21F0465C0015ADD3 /* AAChart.m */; };
+		AC57CF6821F0465D0015ADD3 /* AAChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF3E21F0465C0015ADD3 /* AAChartView.m */; };
+		AC57CF6921F0465D0015ADD3 /* AAChartModel.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF4121F0465C0015ADD3 /* AAChartModel.m */; };
+		AC57CF6A21F0465D0015ADD3 /* AAJsonConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF4221F0465C0015ADD3 /* AAJsonConverter.m */; };
+		AC57CF6B21F0465D0015ADD3 /* AASeriesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF4521F0465C0015ADD3 /* AASeriesElement.m */; };
+		AC57CF6C21F0465D0015ADD3 /* AAOptionsConstructor.m in Sources */ = {isa = PBXBuildFile; fileRef = AC57CF4721F0465C0015ADD3 /* AAOptionsConstructor.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +61,74 @@
 		AC57CEF921F046530015ADD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC57CEFB21F046530015ADD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC57CEFC21F046530015ADD3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AC57CF0521F0465C0015ADD3 /* AAHighchartsLib.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAHighchartsLib.js; sourceTree = "<group>"; };
+		AC57CF0621F0465C0015ADD3 /* AAHighchartsMore.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAHighchartsMore.js; sourceTree = "<group>"; };
+		AC57CF0721F0465C0015ADD3 /* AAFunnel.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AAFunnel.js; sourceTree = "<group>"; };
+		AC57CF0821F0465C0015ADD3 /* AAHighcharts-3d.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "AAHighcharts-3d.js"; sourceTree = "<group>"; };
+		AC57CF0921F0465C0015ADD3 /* AAChartView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = AAChartView.html; sourceTree = "<group>"; };
+		AC57CF0B21F0465C0015ADD3 /* AAOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAOptions.h; sourceTree = "<group>"; };
+		AC57CF0C21F0465C0015ADD3 /* AAArea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAArea.h; sourceTree = "<group>"; };
+		AC57CF0D21F0465C0015ADD3 /* AAAreaspline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAreaspline.m; sourceTree = "<group>"; };
+		AC57CF0E21F0465C0015ADD3 /* AATitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATitle.h; sourceTree = "<group>"; };
+		AC57CF0F21F0465C0015ADD3 /* AALabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALabels.m; sourceTree = "<group>"; };
+		AC57CF1021F0465C0015ADD3 /* AAStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAStyle.h; sourceTree = "<group>"; };
+		AC57CF1121F0465C0015ADD3 /* AABar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AABar.h; sourceTree = "<group>"; };
+		AC57CF1221F0465C0015ADD3 /* AASeries.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeries.m; sourceTree = "<group>"; };
+		AC57CF1321F0465C0015ADD3 /* AAXAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAXAxis.m; sourceTree = "<group>"; };
+		AC57CF1421F0465C0015ADD3 /* AAOptions3d.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAOptions3d.h; sourceTree = "<group>"; };
+		AC57CF1521F0465C0015ADD3 /* AAPlotOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotOptions.m; sourceTree = "<group>"; };
+		AC57CF1621F0465C0015ADD3 /* AADataLabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AADataLabels.m; sourceTree = "<group>"; };
+		AC57CF1721F0465C0015ADD3 /* AALine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALine.m; sourceTree = "<group>"; };
+		AC57CF1821F0465C0015ADD3 /* AAMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAMarker.h; sourceTree = "<group>"; };
+		AC57CF1921F0465C0015ADD3 /* AALegend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALegend.h; sourceTree = "<group>"; };
+		AC57CF1A21F0465C0015ADD3 /* AATooltip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATooltip.m; sourceTree = "<group>"; };
+		AC57CF1B21F0465C0015ADD3 /* AAAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAnimation.h; sourceTree = "<group>"; };
+		AC57CF1C21F0465C0015ADD3 /* AASubtitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASubtitle.m; sourceTree = "<group>"; };
+		AC57CF1D21F0465C0015ADD3 /* AAYAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAYAxis.m; sourceTree = "<group>"; };
+		AC57CF1E21F0465C0015ADD3 /* AAPie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPie.h; sourceTree = "<group>"; };
+		AC57CF1F21F0465C0015ADD3 /* AAItemStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAItemStyle.h; sourceTree = "<group>"; };
+		AC57CF2021F0465C0015ADD3 /* AASpline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASpline.h; sourceTree = "<group>"; };
+		AC57CF2121F0465C0015ADD3 /* AAChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChart.h; sourceTree = "<group>"; };
+		AC57CF2221F0465C0015ADD3 /* AAColumn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAColumn.m; sourceTree = "<group>"; };
+		AC57CF2321F0465C0015ADD3 /* AAPlotLinesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotLinesElement.m; sourceTree = "<group>"; };
+		AC57CF2421F0465C0015ADD3 /* AAXAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAXAxis.h; sourceTree = "<group>"; };
+		AC57CF2521F0465C0015ADD3 /* AAOptions3d.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAOptions3d.m; sourceTree = "<group>"; };
+		AC57CF2621F0465C0015ADD3 /* AASeries.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeries.h; sourceTree = "<group>"; };
+		AC57CF2721F0465C0015ADD3 /* AAStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAStyle.m; sourceTree = "<group>"; };
+		AC57CF2821F0465C0015ADD3 /* AABar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AABar.m; sourceTree = "<group>"; };
+		AC57CF2921F0465C0015ADD3 /* AATitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATitle.m; sourceTree = "<group>"; };
+		AC57CF2A21F0465C0015ADD3 /* AALabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALabels.h; sourceTree = "<group>"; };
+		AC57CF2B21F0465C0015ADD3 /* AAAreaspline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAreaspline.h; sourceTree = "<group>"; };
+		AC57CF2C21F0465C0015ADD3 /* AAOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAOptions.m; sourceTree = "<group>"; };
+		AC57CF2D21F0465C0015ADD3 /* AAArea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAArea.m; sourceTree = "<group>"; };
+		AC57CF2E21F0465C0015ADD3 /* AAAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAnimation.m; sourceTree = "<group>"; };
+		AC57CF2F21F0465C0015ADD3 /* AALegend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALegend.m; sourceTree = "<group>"; };
+		AC57CF3021F0465C0015ADD3 /* AATooltip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATooltip.h; sourceTree = "<group>"; };
+		AC57CF3121F0465C0015ADD3 /* AAMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAMarker.m; sourceTree = "<group>"; };
+		AC57CF3221F0465C0015ADD3 /* AALine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALine.h; sourceTree = "<group>"; };
+		AC57CF3321F0465C0015ADD3 /* AADataLabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AADataLabels.h; sourceTree = "<group>"; };
+		AC57CF3421F0465C0015ADD3 /* AAPlotOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotOptions.h; sourceTree = "<group>"; };
+		AC57CF3521F0465C0015ADD3 /* AASpline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASpline.m; sourceTree = "<group>"; };
+		AC57CF3621F0465C0015ADD3 /* AAItemStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAItemStyle.m; sourceTree = "<group>"; };
+		AC57CF3721F0465C0015ADD3 /* AAPie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPie.m; sourceTree = "<group>"; };
+		AC57CF3821F0465C0015ADD3 /* AAYAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAYAxis.h; sourceTree = "<group>"; };
+		AC57CF3921F0465C0015ADD3 /* AASubtitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASubtitle.h; sourceTree = "<group>"; };
+		AC57CF3A21F0465C0015ADD3 /* AAPlotLinesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotLinesElement.h; sourceTree = "<group>"; };
+		AC57CF3B21F0465C0015ADD3 /* AAColumn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAColumn.h; sourceTree = "<group>"; };
+		AC57CF3C21F0465C0015ADD3 /* AAChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChart.m; sourceTree = "<group>"; };
+		AC57CF3E21F0465C0015ADD3 /* AAChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartView.m; sourceTree = "<group>"; };
+		AC57CF3F21F0465C0015ADD3 /* AAGlobalMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAGlobalMacro.h; sourceTree = "<group>"; };
+		AC57CF4021F0465C0015ADD3 /* AASeriesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeriesElement.h; sourceTree = "<group>"; };
+		AC57CF4121F0465C0015ADD3 /* AAChartModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartModel.m; sourceTree = "<group>"; };
+		AC57CF4221F0465C0015ADD3 /* AAJsonConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAJsonConverter.m; sourceTree = "<group>"; };
+		AC57CF4321F0465C0015ADD3 /* AAOptionsConstructor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAOptionsConstructor.h; sourceTree = "<group>"; };
+		AC57CF4421F0465C0015ADD3 /* AAChartKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartKit.h; sourceTree = "<group>"; };
+		AC57CF4521F0465C0015ADD3 /* AASeriesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeriesElement.m; sourceTree = "<group>"; };
+		AC57CF4621F0465C0015ADD3 /* AAChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartView.h; sourceTree = "<group>"; };
+		AC57CF4721F0465C0015ADD3 /* AAOptionsConstructor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAOptionsConstructor.m; sourceTree = "<group>"; };
+		AC57CF4821F0465C0015ADD3 /* AAJsonConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAJsonConverter.h; sourceTree = "<group>"; };
+		AC57CF4921F0465C0015ADD3 /* AAChartModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartModel.h; sourceTree = "<group>"; };
+		AC57CF6D21F046860015ADD3 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +161,7 @@
 		AC57CEEC21F046510015ADD3 /* YYChartView */ = {
 			isa = PBXGroup;
 			children = (
+				AC57CF0321F0465C0015ADD3 /* AAChartKitLib */,
 				AC57CEED21F046510015ADD3 /* AppDelegate.h */,
 				AC57CEEE21F046510015ADD3 /* AppDelegate.m */,
 				AC57CEF021F046510015ADD3 /* ViewController.h */,
@@ -67,8 +171,107 @@
 				AC57CEF821F046530015ADD3 /* LaunchScreen.storyboard */,
 				AC57CEFB21F046530015ADD3 /* Info.plist */,
 				AC57CEFC21F046530015ADD3 /* main.m */,
+				AC57CF6D21F046860015ADD3 /* PrefixHeader.pch */,
 			);
 			path = YYChartView;
+			sourceTree = "<group>";
+		};
+		AC57CF0321F0465C0015ADD3 /* AAChartKitLib */ = {
+			isa = PBXGroup;
+			children = (
+				AC57CF0421F0465C0015ADD3 /* AAJSFiles */,
+				AC57CF0A21F0465C0015ADD3 /* AAOptionsModel */,
+				AC57CF3D21F0465C0015ADD3 /* AAChartConfiger */,
+			);
+			path = AAChartKitLib;
+			sourceTree = "<group>";
+		};
+		AC57CF0421F0465C0015ADD3 /* AAJSFiles */ = {
+			isa = PBXGroup;
+			children = (
+				AC57CF0521F0465C0015ADD3 /* AAHighchartsLib.js */,
+				AC57CF0621F0465C0015ADD3 /* AAHighchartsMore.js */,
+				AC57CF0721F0465C0015ADD3 /* AAFunnel.js */,
+				AC57CF0821F0465C0015ADD3 /* AAHighcharts-3d.js */,
+				AC57CF0921F0465C0015ADD3 /* AAChartView.html */,
+			);
+			path = AAJSFiles;
+			sourceTree = "<group>";
+		};
+		AC57CF0A21F0465C0015ADD3 /* AAOptionsModel */ = {
+			isa = PBXGroup;
+			children = (
+				AC57CF0B21F0465C0015ADD3 /* AAOptions.h */,
+				AC57CF0C21F0465C0015ADD3 /* AAArea.h */,
+				AC57CF0D21F0465C0015ADD3 /* AAAreaspline.m */,
+				AC57CF0E21F0465C0015ADD3 /* AATitle.h */,
+				AC57CF0F21F0465C0015ADD3 /* AALabels.m */,
+				AC57CF1021F0465C0015ADD3 /* AAStyle.h */,
+				AC57CF1121F0465C0015ADD3 /* AABar.h */,
+				AC57CF1221F0465C0015ADD3 /* AASeries.m */,
+				AC57CF1321F0465C0015ADD3 /* AAXAxis.m */,
+				AC57CF1421F0465C0015ADD3 /* AAOptions3d.h */,
+				AC57CF1521F0465C0015ADD3 /* AAPlotOptions.m */,
+				AC57CF1621F0465C0015ADD3 /* AADataLabels.m */,
+				AC57CF1721F0465C0015ADD3 /* AALine.m */,
+				AC57CF1821F0465C0015ADD3 /* AAMarker.h */,
+				AC57CF1921F0465C0015ADD3 /* AALegend.h */,
+				AC57CF1A21F0465C0015ADD3 /* AATooltip.m */,
+				AC57CF1B21F0465C0015ADD3 /* AAAnimation.h */,
+				AC57CF1C21F0465C0015ADD3 /* AASubtitle.m */,
+				AC57CF1D21F0465C0015ADD3 /* AAYAxis.m */,
+				AC57CF1E21F0465C0015ADD3 /* AAPie.h */,
+				AC57CF1F21F0465C0015ADD3 /* AAItemStyle.h */,
+				AC57CF2021F0465C0015ADD3 /* AASpline.h */,
+				AC57CF2121F0465C0015ADD3 /* AAChart.h */,
+				AC57CF2221F0465C0015ADD3 /* AAColumn.m */,
+				AC57CF2321F0465C0015ADD3 /* AAPlotLinesElement.m */,
+				AC57CF2421F0465C0015ADD3 /* AAXAxis.h */,
+				AC57CF2521F0465C0015ADD3 /* AAOptions3d.m */,
+				AC57CF2621F0465C0015ADD3 /* AASeries.h */,
+				AC57CF2721F0465C0015ADD3 /* AAStyle.m */,
+				AC57CF2821F0465C0015ADD3 /* AABar.m */,
+				AC57CF2921F0465C0015ADD3 /* AATitle.m */,
+				AC57CF2A21F0465C0015ADD3 /* AALabels.h */,
+				AC57CF2B21F0465C0015ADD3 /* AAAreaspline.h */,
+				AC57CF2C21F0465C0015ADD3 /* AAOptions.m */,
+				AC57CF2D21F0465C0015ADD3 /* AAArea.m */,
+				AC57CF2E21F0465C0015ADD3 /* AAAnimation.m */,
+				AC57CF2F21F0465C0015ADD3 /* AALegend.m */,
+				AC57CF3021F0465C0015ADD3 /* AATooltip.h */,
+				AC57CF3121F0465C0015ADD3 /* AAMarker.m */,
+				AC57CF3221F0465C0015ADD3 /* AALine.h */,
+				AC57CF3321F0465C0015ADD3 /* AADataLabels.h */,
+				AC57CF3421F0465C0015ADD3 /* AAPlotOptions.h */,
+				AC57CF3521F0465C0015ADD3 /* AASpline.m */,
+				AC57CF3621F0465C0015ADD3 /* AAItemStyle.m */,
+				AC57CF3721F0465C0015ADD3 /* AAPie.m */,
+				AC57CF3821F0465C0015ADD3 /* AAYAxis.h */,
+				AC57CF3921F0465C0015ADD3 /* AASubtitle.h */,
+				AC57CF3A21F0465C0015ADD3 /* AAPlotLinesElement.h */,
+				AC57CF3B21F0465C0015ADD3 /* AAColumn.h */,
+				AC57CF3C21F0465C0015ADD3 /* AAChart.m */,
+			);
+			path = AAOptionsModel;
+			sourceTree = "<group>";
+		};
+		AC57CF3D21F0465C0015ADD3 /* AAChartConfiger */ = {
+			isa = PBXGroup;
+			children = (
+				AC57CF3E21F0465C0015ADD3 /* AAChartView.m */,
+				AC57CF3F21F0465C0015ADD3 /* AAGlobalMacro.h */,
+				AC57CF4021F0465C0015ADD3 /* AASeriesElement.h */,
+				AC57CF4121F0465C0015ADD3 /* AAChartModel.m */,
+				AC57CF4221F0465C0015ADD3 /* AAJsonConverter.m */,
+				AC57CF4321F0465C0015ADD3 /* AAOptionsConstructor.h */,
+				AC57CF4421F0465C0015ADD3 /* AAChartKit.h */,
+				AC57CF4521F0465C0015ADD3 /* AASeriesElement.m */,
+				AC57CF4621F0465C0015ADD3 /* AAChartView.h */,
+				AC57CF4721F0465C0015ADD3 /* AAOptionsConstructor.m */,
+				AC57CF4821F0465C0015ADD3 /* AAJsonConverter.h */,
+				AC57CF4921F0465C0015ADD3 /* AAChartModel.h */,
+			);
+			path = AAChartConfiger;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,8 +332,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC57CEFA21F046530015ADD3 /* LaunchScreen.storyboard in Resources */,
+				AC57CF4D21F0465D0015ADD3 /* AAHighcharts-3d.js in Resources */,
+				AC57CF4E21F0465D0015ADD3 /* AAChartView.html in Resources */,
 				AC57CEF721F046530015ADD3 /* Assets.xcassets in Resources */,
 				AC57CEF521F046510015ADD3 /* Main.storyboard in Resources */,
+				AC57CF4A21F0465C0015ADD3 /* AAHighchartsLib.js in Resources */,
+				AC57CF4C21F0465D0015ADD3 /* AAFunnel.js in Resources */,
+				AC57CF4B21F0465D0015ADD3 /* AAHighchartsMore.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,9 +349,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC57CF6921F0465D0015ADD3 /* AAChartModel.m in Sources */,
+				AC57CF6821F0465D0015ADD3 /* AAChartView.m in Sources */,
+				AC57CF6721F0465D0015ADD3 /* AAChart.m in Sources */,
+				AC57CF6B21F0465D0015ADD3 /* AASeriesElement.m in Sources */,
+				AC57CF6021F0465D0015ADD3 /* AAArea.m in Sources */,
+				AC57CF5221F0465D0015ADD3 /* AAXAxis.m in Sources */,
+				AC57CF5E21F0465D0015ADD3 /* AATitle.m in Sources */,
+				AC57CF6421F0465D0015ADD3 /* AASpline.m in Sources */,
 				AC57CEF221F046510015ADD3 /* ViewController.m in Sources */,
 				AC57CEFD21F046530015ADD3 /* main.m in Sources */,
+				AC57CF6C21F0465D0015ADD3 /* AAOptionsConstructor.m in Sources */,
 				AC57CEEF21F046510015ADD3 /* AppDelegate.m in Sources */,
+				AC57CF5021F0465D0015ADD3 /* AALabels.m in Sources */,
+				AC57CF5C21F0465D0015ADD3 /* AAStyle.m in Sources */,
+				AC57CF5821F0465D0015ADD3 /* AAYAxis.m in Sources */,
+				AC57CF6321F0465D0015ADD3 /* AAMarker.m in Sources */,
+				AC57CF5721F0465D0015ADD3 /* AASubtitle.m in Sources */,
+				AC57CF6621F0465D0015ADD3 /* AAPie.m in Sources */,
+				AC57CF6521F0465D0015ADD3 /* AAItemStyle.m in Sources */,
+				AC57CF5921F0465D0015ADD3 /* AAColumn.m in Sources */,
+				AC57CF5121F0465D0015ADD3 /* AASeries.m in Sources */,
+				AC57CF5421F0465D0015ADD3 /* AADataLabels.m in Sources */,
+				AC57CF5F21F0465D0015ADD3 /* AAOptions.m in Sources */,
+				AC57CF5621F0465D0015ADD3 /* AATooltip.m in Sources */,
+				AC57CF4F21F0465D0015ADD3 /* AAAreaspline.m in Sources */,
+				AC57CF5321F0465D0015ADD3 /* AAPlotOptions.m in Sources */,
+				AC57CF5B21F0465D0015ADD3 /* AAOptions3d.m in Sources */,
+				AC57CF5D21F0465D0015ADD3 /* AABar.m in Sources */,
+				AC57CF5A21F0465D0015ADD3 /* AAPlotLinesElement.m in Sources */,
+				AC57CF6121F0465D0015ADD3 /* AAAnimation.m in Sources */,
+				AC57CF5521F0465D0015ADD3 /* AALine.m in Sources */,
+				AC57CF6A21F0465D0015ADD3 /* AAJsonConverter.m in Sources */,
+				AC57CF6221F0465D0015ADD3 /* AALegend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +523,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 55MA3A96DS;
+				GCC_PREFIX_HEADER = /Users/liandi/Desktop/YYChartView/YYChartView/PrefixHeader.pch;
 				INFOPLIST_FILE = YYChartView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +541,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 55MA3A96DS;
+				GCC_PREFIX_HEADER = /Users/liandi/Desktop/YYChartView/YYChartView/PrefixHeader.pch;
 				INFOPLIST_FILE = YYChartView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
